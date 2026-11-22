@@ -1,6 +1,12 @@
 {
-  "appName": "Web App",
-  "packageName": "com.example.webapp",
-  "orientation": "auto",
-  "permissions": ["internet", "network_state"]
+  "appName": "aplikasi game",
+  "packageName": "com.web2apk.aplikasigamejm1c",
+  "orientation": "portrait",
+  "permissions": [
+    "notification",
+    "camera",
+    "video",
+    "wifi_state",
+    "wake_lock"
+  ]
 }
